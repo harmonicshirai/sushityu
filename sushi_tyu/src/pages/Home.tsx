@@ -487,7 +487,7 @@ function SpecialtiesSection() {
           </div>
           <div className="relative aspect-square lg:aspect-auto overflow-hidden glow-image order-1 lg:order-2">
             <img
-              src="images/inari_maki.jpg"
+              src="images/inari_maki_new.jpg"
               alt="忠さんいなり・き久さん巻"
               className="w-full h-full object-cover"
             />

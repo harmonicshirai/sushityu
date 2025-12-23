@@ -187,7 +187,7 @@ function HeroSection() {
         className="absolute inset-0 z-0"
       >
         <img
-          src="/images/hero_main.jpg"
+          src="images/hero_main.jpg"
           alt="寿司忠の会席料理"
           className="w-full h-full object-cover opacity-30"
         />
@@ -269,7 +269,7 @@ function ConceptSection() {
         <motion.div variants={fadeInUp} className="mb-16">
           <div className="relative aspect-[21/9] overflow-hidden glow-image">
             <img
-              src="/images/concept_bg.jpg"
+              src="images/concept_bg.jpg"
               alt="寿司忠の店内"
               className="w-full h-full object-cover"
             />
@@ -339,21 +339,21 @@ function MenuSection() {
       subtitle: "LUNCH",
       description: "お得なランチセットや海鮮丼など。お昼のひとときを贅沢に。",
       price: "1,500円〜",
-      image: "/images/food_assorted.jpg"
+      image: "images/food_assorted.jpg"
     },
     {
       title: "ディナー・コース",
       subtitle: "DINNER COURSE",
       description: "四代目おまかせコースや季節の会席料理をご用意。",
       price: "5,000円〜",
-      image: "/images/course_wakadanna.jpg"
+      image: "images/course_wakadanna.jpg"
     },
     {
       title: "テイクアウト",
       subtitle: "TAKEOUT",
       description: "ご自宅でも料亭の味を。お祝いや法事のお弁当も承ります。",
       price: "1,000円〜",
-      image: "/images/unaju.jpg"
+      image: "images/unaju.jpg"
     }
   ];
 
@@ -428,7 +428,7 @@ function SpecialtiesSection() {
         >
           <div className="relative aspect-square lg:aspect-auto overflow-hidden glow-image">
             <img
-              src="/images/unaju.jpg"
+              src="images/unaju.jpg"
               alt="寿司忠のうなぎ"
               className="w-full h-full object-cover"
             />
@@ -487,7 +487,7 @@ function SpecialtiesSection() {
           </div>
           <div className="relative aspect-square lg:aspect-auto overflow-hidden glow-image order-1 lg:order-2">
             <img
-              src="/images/inari_maki.jpg"
+              src="images/inari_maki.jpg"
               alt="忠さんいなり・き久さん巻"
               className="w-full h-full object-cover"
             />
@@ -518,7 +518,7 @@ function SpaceSection() {
         <motion.div variants={fadeInUp} className="mb-12">
           <div className="relative aspect-[21/9] overflow-hidden glow-image">
             <img
-              src="/images/concept_bg.jpg"
+              src="images/concept_bg.jpg"
               alt="寿司忠の座敷"
               className="w-full h-full object-cover"
             />
